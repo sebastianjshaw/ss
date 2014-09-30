@@ -1,0 +1,11 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+.blog-overview-title{
+position: relative;
+top: 0px;
+background-color: black;
+filter: alpha(opacity=80);
+opacity: 0.8;
+-moz-opacity: 0.8;
+}
